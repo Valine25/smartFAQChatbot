@@ -1,0 +1,8 @@
+Q: What is your refund policy?
+A: Refunds are allowed within 7 days of purchase with a valid receipt.
+
+Q: How can I contact support?
+A: You can contact support via email at support@example.com.
+
+Q: Do you offer technical assistance?
+A: Yes, technical assistance is available 24/7 through our help center.
